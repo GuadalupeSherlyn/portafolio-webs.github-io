@@ -1,0 +1,77 @@
+.link-cabecera{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+li{
+    padding: 5px;
+}
+
+.img-google{
+    width: 300px;
+    height: 100px;
+    
+}
+.contenedor-imagen{
+    text-align: center;
+    margin-top: 30px;
+}
+.contenedor-buscador{
+    text-align: center;
+
+}
+.acceso{
+    background-color: rgb(150, 181, 216);
+    width: 100px;
+    height: 30px;
+    border: 1px solid rgb(189, 189, 189);
+   margin-right: 10px;
+   border-radius: 5px;
+
+}
+.buscador{
+    width: 700px;
+    height: 30px;
+    border-radius: 50px;
+    border: 1px solid;
+    margin: 10px;
+}
+.buscar-google{
+   background-color: rgb(230, 225, 225);
+   border: 1px solid white;
+   margin-right: 5px;
+   width: 150px;
+   height: 30px;
+   border-radius: 5px;
+}
+footer{
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    background-color: rgb(235, 227, 227);
+    bottom: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.pie-izquierdo{
+    justify-content: left;
+    list-style: none;
+    display: flex;
+    margin: 10px;
+      
+}
+.pie-derecho{
+    justify-content: right;
+    list-style: none;
+    display: flex;
+    margin: 10px;
+}

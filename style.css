@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(218, 157, 77);
+    font-family:fantasy
+}
+.logo{
+    width: 100px;
+}
+.usuario{
+    border-radius: 50%;
+    width: 350px;
+}
+.sherlyn{
+    text-align: center;
+    margin-top: 100px;
+}
+.front{
+    width: 950px;
+    height: 450px;
+}
+.imagen5{
+    background-color: rgb(25, 99, 99);
+    text-align: center;
+    padding:50px;
+    color: rgb(200, 207, 214);
+    
+}
+.columna:hover{
+    
+    border: 2px solid #568a3c;
+    color: rgb(74, 212, 212);
+    background-color: rgb(196, 94, 75);
+    text-align: center;
+    padding: 20px;
+    transition: all 0.2s ease;
+}
+.contemplacion h1{
+    font-size: 2.5em;
+    color: rgb(55, 57, 194);
+    margin-top: 100px;
+    padding: 20px;
+    
+    
+}
+.proyectos{
+padding: 80px;
+text-align: center;
+
+}
+.experiencia{
+    font-size: 2.5em;
+    background-color: aquamarine;
+    padding: 8px 19px;
+    border-radius: 50%;
+}
+.columna{
+    margin-top: 20px;
+}
+.imagenes{
+text-align: center;
+padding-top:70px ;
+text-align: center;
+}
+.proyecto{
+    text-align: center;
+    padding-top:100px; 
+text-align: center;
+
+}
+.pagina{
+    text-align: center;
+    color: rgb(79, 33, 122);
+}
